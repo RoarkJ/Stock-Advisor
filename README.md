@@ -1,4 +1,4 @@
-Stock Advisor(robot)
+Stock Trading Robot
 
 These robots are built to trade stocks live using Alpaca's stock trading API.
 Moving Averages Robot
