@@ -1,6 +1,6 @@
 # Stock Trading Robot <h1>
-
 These robots are built to trade stocks live using Alpaca's stock trading API.
+    
 Moving Averages Robot
 
 This robot monitors the market for buy and sell signals generated from the crossover of simple or exponential moving averages.
