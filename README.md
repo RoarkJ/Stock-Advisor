@@ -1,4 +1,4 @@
-# Stock Trading Robot <h1> tag
+# Stock Trading Robot <h1>
 
 These robots are built to trade stocks live using Alpaca's stock trading API.
 Moving Averages Robot
